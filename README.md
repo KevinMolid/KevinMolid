@@ -2,8 +2,10 @@
 
 - ✨ I love creating things, learning and solving problems
 - 🌱 I’m currently learning Frontend Development at Scrimba
-- 👯 I’m looking to collaborate on JavaScript projects
-- 📫 How to reach me: kevinmolid@gmail.com
+- 👯 I’m looking to collaborate on projects as a Frontend Developer
+- 🐕 I've got two dogs named Dag (Staffordshire bull terrier) and Sonja (Tibetan spaniel). 
+- 📫 How to reach me: www.linkedin.com/in/kevin-molid / kevinmolid@gmail.com
+- ⚡ Fun fact: In 2014 I won the Norwegian championship for beginner amateur boxers, which makes me Norway's greatest noob!
 
 <!--
 **KevinMolid/KevinMolid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
